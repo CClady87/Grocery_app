@@ -51,4 +51,6 @@ bread = 2.5
 total = milk + bread
 #print(total)
 total_cost = "5.5"
+#used print total to determine cost and convert float to string
 print("The total cost is: $" + total_cost)
+#fixed the bug!
