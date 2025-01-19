@@ -57,3 +57,5 @@
 #name = input("What is your name?")
 #print(f"Hello {name}, it is lovely to meet you!")
 
+store_name = "Giant"
+print(f"Welcome to {store_name}!")
