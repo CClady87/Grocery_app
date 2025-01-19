@@ -45,13 +45,15 @@
 #finding out what your favorite store is
 #print(f"Welcome to {favorite_grocery_store}! We are happy to see you back! Enjoy shopping with us today!")
 #exploiting the information against you
-
-milk = 3.0
-bread = 2.5
-total = milk + bread
+#ilk = 3.0
+#read = 2.5
+#otal = milk + bread
 #print(total)
-total_cost = "5.5"
+#total_cost = "5.5"
 #used print total to determine cost and convert float to string
-print("The total cost is: $" + total_cost)
+#print("The total cost is: $" + total_cost)
 #fixed the bug!
 #merging branch 2
+#name = input("What is your name?")
+#print(f"Hello {name}, it is lovely to meet you!")
+
