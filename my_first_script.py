@@ -190,4 +190,75 @@
 #desserts.remove('jello')
 #inter_set = dairy_products.intersection(desserts)
 #print(inter_set)
+#number = int(input("Give me a number:"))
+#if number % 2 == 0:
+#    print("Even")
+#else:
+#    print("Odd")
 
+#temperature = int(input("Please tell me the temperature in C or F:"))
+#if temperature <(15): 
+#    print("Cold")
+#elif temperature > (15) and temperature < (25):
+#    print("Warm")
+#else:
+#    print("Hot")
+#age = int(input("Enter your age:"))
+#citizenship = input("Are you a citizen (yes/no):").lower()
+#if age >= 18:
+ #   if citizenship == "yes":
+ #       print("Eligible to vote")
+ #   else:
+ #       print("Not eligible: must be a citizen")
+#else:
+#    print("Not eligible: must be 18 or older")
+
+# dictionary for grocery list app practice day 4
+#grocery_list = [
+ #    {
+  #       "name": "milk", "amount": 2, "cost": 2.5, "store": "Walmart",
+   #  },
+    # {
+     #    "name": "bread", "amount": 1, "cost": 1.5, "store": "Target", 
+     #},
+     #{
+     #    "name": "eggs", "amount": 12, "cost": 3, "store": "Costco",
+     #},
+#]
+#for item in grocery_list:
+ #   print(f"{item['name']} - {item['amount']} units - ${item['cost']} - from {item['store']}")
+
+#While loop practice day 4
+#while True:
+#    command = input("Type a command add or done: ")
+#    if command == "done":
+#        break
+
+ #   name =input("Enter item name: ")
+ #   amount = int(input("Enter amount: "))
+  #  cost = float(input("Enter cost: "))
+  #  store = input("Enter store: ")
+
+   # new_item_dict = {"name": name, "amount": amount, "cost": cost, "store": store}
+   # grocery_list.append(new_item_dict)
+
+    #print(f"{name} was added to grocery list!")
+    
+    #or item in grocery_list:
+     #   print(item)
+
+#grocery_list = ["apples", "cherries", "bananas", "chocolate"]
+#for item in grocery_list:
+#    print(item)
+
+#while True:
+#    command = input("Type a command add or done: ")
+#    if command == "done":
+#        print(grocery_list)
+#        break
+
+#    item = input("Type item name: ")
+
+#    new_item_list = item
+#    grocery_list.append(new_item_list)
+#    print(grocery_list)
